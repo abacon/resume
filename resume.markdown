@@ -8,8 +8,8 @@
 Carleton College, Northfield, Minnesota
 Fall 2008 - Spring 2012
 - Computer Science, B.A.
-- 3.72 Grade Point Average
-- Relevant Coursework:
+- Grade Point Average: 3.72
+- Relevant Coursework: Algorithms, Artificial Intelligence, Cryptography, Data Structures, Math of Computer Science, Statistics
 
 ## Related Experience
 
