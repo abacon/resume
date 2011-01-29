@@ -35,6 +35,16 @@ June 2010 - Present
 
 ## Additional Experience
 
+### Carleton College Middle Eastern Languages Department
+
+Arabic Teaching Assistant
+
+January 2011 - Present
+
+- Held office hours and provided individual tutoring for students.
+- Assisted professor during in-class group work for first-year students.
+- Developed audiolingual learning materials for the second-year students.
+
 ### Carleton College Information Technology Services
 
 Rapid Response Assistant
