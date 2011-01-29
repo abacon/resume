@@ -14,7 +14,7 @@ Fall 2008 - Spring 2012
 - Grade Point Average: 3.72
 - Relevant Coursework: Algorithms, Artificial Intelligence, Cryptography, Data Structures, Math of Computer Science, Statistics
 
-### Lebanese American University
+### Lebanese American University, Beirut, Lebanon
 
 Fall 2010
 
@@ -30,7 +30,7 @@ June 2010 - Present
 
 - Configured and set-up servers, computer labs, and faculty machines.
 - Developed documentation for server and lab configurations.
-- Wrote scripts to simply and improve aspects of the account creation and maitenence procceses.
+- Simplified the account creation and maitenence processes for the computer science labs by writing a collection of scripts.
 
 ## Additional Experience
 
@@ -59,6 +59,7 @@ September 2009 - June 2010
 - SQL
 - LaTeX
 - git
+- Bash
 - Unix Server Administration
-- Limited Java experience
-- Limited JavaScript experience
+- Some Java experience
+- Some JavaScript experience
