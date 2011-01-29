@@ -28,10 +28,9 @@ Assistant Systems Administrator
 
 June 2010 - Present
 
-- Configured and set-up servers and computer labs for the Math and Computer Science Departments.
+- Configured and set-up servers, computer labs, and faculty machines.
 - Developed documentation for server and lab configurations.
-- Configured machines and software to meet faculty needs.
-- Wrote scripts automating and streamlining many aspects of the account creation and system maitenence processes.
+- Wrote scripts to simply and improve aspects of the account creation and maitenence procceses.
 
 ## Additional Experience
 
