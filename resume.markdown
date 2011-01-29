@@ -22,8 +22,15 @@ Fall 2010
 
 ## Related Experience
 
-
-
 ## Additional Experience
+
+### Carleton College Information Technology Services
+
+Rapid Response Assistant
+
+September 2009 - June 2010
+
+- Student worker for faculty and staff help desk.
+- Provided phone and on-site support for software, hardware, and networking issues.
 
 ## Technical Skills and Expertise
