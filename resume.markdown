@@ -1,8 +1,8 @@
 # Andy Freeland
 
- - <andy@andyfreeland.net>
- - <http://andyfreeland.net>
- - 815-501-7832
+- <andy@andyfreeland.net>
+- <http://andyfreeland.net>
+- 815-501-7832
  
 ## Education
 
