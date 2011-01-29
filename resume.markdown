@@ -55,3 +55,12 @@ September 2009 - June 2010
 - Provided phone and on-site support for software, hardware, and networking issues.
 
 ## Technical Skills and Expertise
+
+- Python
+- HTML/CSS
+- SQL
+- LaTeX
+- git
+- Unix Server Administration
+- Limited Java experience
+- Limited JavaScript experience
