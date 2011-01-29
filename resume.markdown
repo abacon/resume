@@ -58,7 +58,7 @@ September 2009 - June 2010
 - HTML/CSS
 - SQL
 - LaTeX
-- git
+- Git
 - Bash
 - Unix Server Administration
 - Some Java experience
