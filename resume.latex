@@ -1,0 +1,110 @@
+%______________________________________________________________________________________________________________________
+% @brief    LaTeX2e Resume for Andy Freeland
+\documentclass[margin,line,11pt]{resume}
+
+
+%______________________________________________________________________________________________________________________
+\begin{document}
+\name{\Large Andy Freeland}
+\begin{resume}
+
+    %__________________________________________________________________________________________________________________
+    % Contact Information
+    \section{\mysidestyle Contact\\Information}
+
+    300 North College Street
+    \hfill mobile: (815) 501 7832
+    \vspace{0mm}\\\vspace{0mm}%
+    Northfield MN, 55057                          
+    \hfill e-mail: andy@andyfreeland.net
+    \vspace{0mm}\\\vspace{0mm}%
+    \hfill web: http://andyfreeland.net         
+    \vspace{0mm}\\\vspace{-4.5mm}%
+
+    %__________________________________________________________________________________________________________________
+    % Education
+    \section{\mysidestyle Education}
+
+    \textbf{Carleton College}, Northfield, Minnesota
+    \hfill September 2008 -- June 2012
+    \vspace{2mm}\\\vspace{1mm}%
+    \textsl{Candidate for Bachelor of Arts in Computer Science}
+    \vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+        \item GPA: 3.72
+        \item Relevant Coursework:  Algorithms, Artificial Intelligence, Cryptography, Data Mining, Data Structures, Math of Computer Science, Statistics
+    \end{list2}\vspace{-1.5mm}%
+    
+    \textbf{Lebanese American University}, Beirut, Lebanon
+    \hfill September 2010 -- December 2010
+    \vspace{2mm}\\\vspace{1mm}%
+    \textsl{Institute for Intensive Arabic Language and Culture} 
+    \vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+        \item GPA: 4.0
+        \item Semester program in Intensive Arabic Language and Culture
+        \item Coursework: Advanced Standard Arabic, Advanced Arabic Writing Skills, Lebanese Arabic, Middle East Challenges of the 21st Century
+    \end{list2}\vspace{-1.5mm}%
+
+    %__________________________________________________________________________________________________________________
+    % Professional Experience
+    \section{\mysidestyle Work\\Experience}
+
+    \textbf{Carleton College}, Northfield, Minnesota \vspace{2mm}\\\vspace{1mm}%
+    \textbf{Assistant Systems Administrator} \hfill June 2010 -- present
+    \begin{list2}
+        \item Configured and set up RHEL servers, primarily web services.
+        \item Configured and maintained Mac and Windows computer labs and faculty machines.
+        \item Wrote documentation for server and lab configurations as well as technical instructions for students.
+        \item Rewrote Math and Computer Science account creation process to be compatible with Mac OS X 10.6.
+    \end{list2}\vspace{-1.5mm}%
+
+    \textbf{Arabic Teaching Assistant} \hfill January 2011 -- present
+    \begin{list2}
+        \item Held office hours to help students with homework and practice oral skills.
+        \item Provided one-on-one tutoring to students who requested additional help.
+        \item Assisted professor during in-class group work for 19-20 introductory Arabic students by answering questions and facilitating discussion.
+        \item Developed audiolingual learning materials for the second-year students, which allows students to hear a recording, repeat the recording, and receive professor feedback.
+    \end{list2}\vspace{-1.5mm}%
+    
+    \textbf{Grader} \hfill January 2010 -- March 2010
+    \begin{list2}
+        \item Graded programming assignments for an Introduction to Computer Science class.
+        \item Evaluated for correctness and provided extensive feedback on style and programming practices.
+    \end{list2}\vspace{-1.5mm}%
+    
+    \textbf{Rapid Response Assistant} \hfill September 2009 -- June 2010
+    \begin{list2}
+        \item Worked with a team of full-time staff and student workers to provide phone and on-site technical support to faculty and staff.
+        \item Troubleshot software, hardware, and networking issues.
+    \end{list2}\vspace{-1.5mm}%
+    %__________________________________________________________________________________________________________________
+    % Other Experience
+    \section{\mysidestyle Other Experience} 
+
+    \textbf{Math Tutor} \hfill August 2006 -- Present
+    \begin{list2}
+        \item Assisted teacher in tutoring 10-20 students at various levels of math from algebra through calculus in after-school sessions.
+        \item Provided one-on-one tutoring for students outside of school.
+    \end{list2}\vspace{-1.5mm}%
+    
+    %\textbf{Church Pianist} \hfill February 2008 -- December 2008
+    %\begin{list2}
+        %\item Collaborated with church staff to prepare a musical program for church services.
+        %\item Prepared assigned music in less than one week and chose a prelude.
+    %\end{list2}\vspace{-1.5mm}%
+
+    %__________________________________________________________________________________________________________________
+    % Technical Skills
+    \section{\mysidestyle Skills} 
+
+    Python, HTML/CSS, SQL, \LaTeX , Git, Bash, Linux/Unix Administration, some Java experience.
+
+%______________________________________________________________________________________________________________________
+\end{resume}
+\end{document}
+
+
+%______________________________________________________________________________________________________________________
+% EOF
+
