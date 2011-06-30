@@ -31,7 +31,7 @@
     \textsl{Candidate for Bachelor of Arts in Computer Science}
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item GPA: 3.72
+        \item GPA: 3.734
         \item Relevant Coursework:  Algorithms, Artificial Intelligence, Cryptography, Data Mining, Data Structures, Math of Computer Science, Statistics
     \end{list2}\vspace{-1.5mm}%
     
@@ -98,7 +98,7 @@
     % Technical Skills
     \section{\mysidestyle Skills} 
 
-    Python, HTML/CSS, SQL, \LaTeX , Git, Bash, Linux/Unix Administration.
+    Python, HTML/CSS, Django, SQL, \LaTeX , Git, Bash, Linux/Unix Administration.
 
 %______________________________________________________________________________________________________________________
 \end{resume}
