@@ -54,6 +54,7 @@
     \textbf{Carleton College}, Northfield, Minnesota \vspace{2mm}\\\vspace{1mm}%
     \textbf{Assistant Systems Administrator} \hfill June 2010 -- present
     \begin{list2}
+        \item Developed futures market web application using Django for introductory computer science classes and faculty research.
         \item Configured and set up RHEL servers, primarily web services.
         \item Configured and maintained Mac and Windows computer labs and faculty machines.
         \item Wrote documentation for server and lab configurations as well as technical instructions for students.
