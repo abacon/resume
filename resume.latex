@@ -51,12 +51,11 @@
     % Projects
     \section{\mysidestyle Projects} 
 
-    \textbf{Futures Market} \hfill Summer 2011
+    \textbf{Futures Market} \hfill June -- July 2011
     \begin{list2}
-        \item Developed a futures market web application using the Django framework, a jQuery frontend, and Tornado server.
+        \item Developed a futures market web application using the Django framework and a jQuery frontend.%, and Tornado server.
+        \item Designed to handle a class of 50 students while performing live updates of stock prices and orders.
         \item Markets are initialized with and export to YAML for data analysis.
-        \item Designed to handle a class of 50 students while performing live updates of stock prices and open orders.
-        \item Something about \textbf{why}.
     \end{list2}\vspace{-1.5mm}%
 
     \textbf{HITSearch} \hfill June 2011
