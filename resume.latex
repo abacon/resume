@@ -60,7 +60,7 @@
 
     \textbf{HITSearch} \hfill June 2011
     \begin{list2}
-        \item Worked in a three-person team to develop a fully functional search engine using the Django framework.
+        \item Worked in a three-person team to develop a search engine using the Django framework.
         \item Implemented a web crawler that safely crawled and indexed over 8000 pages.
         \item Supported user customization of search results by adjusting the weight of term frequency versus
             the HITS algorithm in the ranking.
@@ -80,16 +80,15 @@
     \textbf{Carleton College}, Northfield, Minnesota \vspace{2mm}\\\vspace{1mm}%
     \textbf{Assistant Systems Administrator} \hfill June 2010 -- present
     \begin{list2}
-        \item Developed futures market web application using Django for introductory computer science classes.
         \item Deployed Git server and led transition from SVN to Git.
         \item Configured and maintained Mac and Windows computer labs, faculty machines, and Linux servers.
-        \item Documented server and lab configurations and provided technical instructions for students.
+        \item Documented server and lab configurations and wrote technical instructions for students.
     \end{list2}\vspace{-1.5mm}%
 
     \textbf{Arabic Teaching Assistant} \hfill January 2011 -- present
     \begin{list2}
-        \item Held office hours to help students with homework and practice oral skills.
-        \item Provided one-on-one tutoring to students who requested additional help.
+        \item Held office hours and one-on-one sessions to help students with homework and practice oral skills.
+        %\item Provided one-on-one tutoring to students who requested additional help.
         \item Assisted professor during in-class group work with 20 introductory Arabic students by answering questions and facilitating discussion.
         \item Developed audiolingual learning materials for the second-year students which allow students to hear a recording, practice pronunciation, and receive professor feedback.
     \end{list2}\vspace{-1.5mm}%
@@ -102,9 +101,9 @@
     
     \textbf{Rapid Response Assistant} \hfill September 2009 -- June 2010
     \begin{list2}
-        \item Worked with a team of full-time staff and student workers to provide phone and on-site technical support to faculty and staff.
-        \item Troubleshot software, hardware, and networking issues.
+        \item Worked with a team of full-time staff and student workers to provide phone and on-site technical support to faculty and staff with software, hardware, and networking issues.
     \end{list2}\vspace{-1.5mm}%
+
     %__________________________________________________________________________________________________________________
     % Other Experience
     \section{\mysidestyle Other Experience} 
@@ -115,12 +114,6 @@
         \item Provided one-on-one tutoring for students outside of school.
     \end{list2}\vspace{-1.5mm}%
     
-    %\textbf{Church Pianist} \hfill February 2008 -- December 2008
-    %\begin{list2}
-        %\item Collaborated with church staff to prepare a musical program for church services.
-        %\item Prepared assigned music in less than one week and chose a prelude.
-    %\end{list2}\vspace{-1.5mm}%
-
     %__________________________________________________________________________________________________________________
     % Technical Skills
     \section{\mysidestyle Skills} 
