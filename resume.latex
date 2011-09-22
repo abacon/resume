@@ -29,21 +29,21 @@
     \textbf{Carleton College}, Northfield, Minnesota
     \hfill September 2008 -- June 2012
     \vspace{2mm}\\\vspace{1mm}%
-    \textsl{Candidate for Bachelor of Arts in Computer Science}
+    \textsl{Candidate for Bachelor of Arts in Computer Science}; GPA: 3.734
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item GPA: 3.734
+        %\item GPA: 3.734
         \item Relevant Coursework:  Algorithms, Artificial Intelligence, Cryptography, Data Mining, Data Structures, Math of Computer Science, Statistics
     \end{list2}\vspace{-1.5mm}%
     
     \textbf{Lebanese American University}, Beirut, Lebanon
     \hfill September 2010 -- December 2010
     \vspace{2mm}\\\vspace{1mm}%
-    \textsl{Institute for Intensive Arabic Language and Culture} 
+    \textsl{Institute for Intensive Arabic Language and Culture}; GPA: 4.0
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item GPA: 4.0
-        \item Semester program in Intensive Arabic Language and Culture, focusing on Modern Standard Arabic, Lebanese Arabic, and the politics of the Middle East.
+        %\item GPA: 4.0
+        \item Semester program in Arabic language and culture, focusing on Modern Standard Arabic, Lebanese Arabic, and the politics of the Middle East.
         %\item Coursework: Advanced Standard Arabic, Advanced Arabic Writing Skills, Lebanese Arabic, Middle East Challenges of the 21st Century
     \end{list2}\vspace{-1.5mm}%
 
