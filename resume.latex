@@ -48,6 +48,33 @@
     \end{list2}\vspace{-1.5mm}%
 
     %__________________________________________________________________________________________________________________
+    % Projects
+    \section{\mysidestyle Projects} 
+
+    \textbf{Futures Market} \hfill Summer 2011
+    \begin{list2}
+        \item Developed a futures market web application using the Django framework, a jQuery frontend, and Tornado server.
+        \item Markets are initialized with and export to YAML for data analysis.
+        \item Designed to handle a class of 50 students while performing live updates of stock prices and open orders.
+        \item Something about \textbf{why}.
+    \end{list2}\vspace{-1.5mm}%
+
+    \textbf{HITSearch} \hfill June 2011
+    \begin{list2}
+        \item Worked in a three-person team to develop a fully functional search engine using the Django framework.
+        \item Implemented a web crawler that safely crawled and indexed over 8000 pages.
+        \item Supported user customization of search results by adjusting the weight of term frequency versus
+            the HITS algorithm in the ranking.
+    \end{list2}\vspace{-1.5mm}%
+
+    \textbf{20 Questions} \hfill June 2010
+    \begin{list2}
+        \item Worked in a two-person team to build an artificially intelligent twenty questions bot and web application using web.py.
+        \item Conducted user testing to build a dataset and evaluate algorithms for choosing questions.
+        \item Bot could learn new characters and new questions from user input.
+    \end{list2}\vspace{-1.5mm}%
+
+    %__________________________________________________________________________________________________________________
     % Professional Experience
     \section{\mysidestyle Work\\Experience}
 
