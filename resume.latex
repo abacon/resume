@@ -52,13 +52,15 @@
     \section{\mysidestyle Projects} 
 
     \textbf{Futures Market} \hfill June -- July 2011
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Developed a futures market web application using the Django framework and a jQuery frontend.%, and Tornado server.
+        \item Developed a futures market web application, similar to the Iowa Electronic Markets, using the Django framework and a jQuery frontend.%, and Tornado server.
         \item Designed to handle a class of 50 students while performing live updates of stock prices and orders.
         \item Markets are initialized with and export to YAML for data analysis.
     \end{list2}\vspace{-1.5mm}%
 
     \textbf{HITSearch} \hfill June 2011
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
         \item Worked in a three-person team to develop a search engine using the Django framework.
         \item Implemented a web crawler that safely crawled and indexed over 8000 pages.
@@ -67,6 +69,7 @@
     \end{list2}\vspace{-1.5mm}%
 
     \textbf{20 Questions} \hfill June 2010
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
         \item Worked in a two-person team to build an artificially intelligent twenty questions bot and web application using web.py.
         \item Conducted user testing to build a dataset and evaluate algorithms for choosing questions.
@@ -79,6 +82,7 @@
 
     \textbf{Carleton College}, Northfield, Minnesota \vspace{2mm}\\\vspace{1mm}%
     \textbf{Assistant Systems Administrator} \hfill June 2010 -- present
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
         \item Deployed Git server and led transition from SVN to Git.
         \item Configured and maintained Mac and Windows computer labs, faculty machines, and Linux servers.
@@ -87,6 +91,7 @@
     \end{list2}\vspace{-1.5mm}%
 
     \textbf{Arabic Teaching Assistant} \hfill January 2011 -- present
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
         \item Held office hours and one-on-one sessions to help students with homework and practice oral skills.
         %\item Provided one-on-one tutoring to students who requested additional help.
@@ -95,12 +100,14 @@
     \end{list2}\vspace{-1.5mm}%
     
     \textbf{Grader} \hfill January 2010 -- March 2010
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
         \item Graded programming assignments for an Introduction to Computer Science class.
         \item Evaluated for correctness and provided extensive feedback on style and programming practices.
     \end{list2}\vspace{-1.5mm}%
     
     \textbf{Rapid Response Assistant} \hfill September 2009 -- June 2010
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
         \item Worked with a team of full-time staff and student workers to provide phone and on-site technical support to faculty and staff with software, hardware, and networking issues.
     \end{list2}\vspace{-1.5mm}%
@@ -110,6 +117,7 @@
     \section{\mysidestyle Other Experience} 
 
     \textbf{Volunteer Math Tutor} \hfill August 2006 -- Present
+    \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
         \item Assisted teacher in tutoring 10-20 students from algebra through calculus in after-school sessions.
         \item Provided one-on-one tutoring for students outside of school.
