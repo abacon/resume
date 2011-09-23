@@ -77,7 +77,7 @@
 
     %__________________________________________________________________________________________________________________
     % Professional Experience
-    \section{\mysidestyle Work\\Experience}
+    \section{\mysidestyle Related\\Experience}
 
     \textbf{Carleton College}, Northfield, Minnesota \vspace{2mm}\\\vspace{1mm}%
     \textbf{Assistant Systems Administrator} \hfill June 2010 -- present
@@ -89,13 +89,6 @@
         \item Assisted students with debugging and version control.
     \end{list2}\vspace{-1.5mm}%
 
-    \textbf{Arabic Teaching Assistant} \hfill January 2011 -- present
-    \vspace{-3mm}\\\vspace{-1mm}%
-    \begin{list2}
-        \item Held office hours and one-on-one sessions to help students with homework and practice oral skills.
-        \item Assisted professor during in-class group work with 20 introductory Arabic students by answering questions and facilitating discussion.
-        \item Developed audiolingual learning materials for the second-year students which allow students to hear a recording, practice pronunciation, and receive professor feedback.
-    \end{list2}\vspace{-1.5mm}%
     
     \textbf{Grader} \hfill January 2010 -- March 2010
     \vspace{-3mm}\\\vspace{-1mm}%
@@ -111,9 +104,17 @@
     \end{list2}\vspace{-1.5mm}%
 
     %__________________________________________________________________________________________________________________
-    % Other Experience
-    \section{\mysidestyle Other Experience} 
+    % Additional Experience
+    \section{\mysidestyle Additional Experience} 
 
+    \textbf{Arabic Teaching Assistant} \hfill January 2011 -- present
+    \vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+        \item Held office hours and one-on-one sessions to help students with homework and practice oral skills.
+        \item Assisted professor during in-class group work with 20 introductory Arabic students by answering questions and facilitating discussion.
+        \item Developed audiolingual learning materials for the second-year students which allow students to hear a recording, practice pronunciation, and receive professor feedback.
+    \end{list2}\vspace{-1.5mm}%
+    
     \textbf{Volunteer Math Tutor} \hfill August 2006 -- Present
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
