@@ -1,3 +1,3 @@
-My resume. Viewable at <http://andyfreeland.net/resume.pdf>.
+My resume. Viewable at <http://bacontemptation.com/resume.pdf>.
 
 Uses Michael DeCorte's resume.cls.

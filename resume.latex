@@ -1,134 +1,142 @@
 %______________________________________________________________________________________________________________________
-% @brief    LaTeX2e Resume for Andy Freeland
+% @brief    LaTeX2e Resume for Andrew Bacon
 \documentclass[margin,line,10pt]{resume}
-
-
+\usepackage{acronym}
+%\usepackage{fontspec}
+%\fontspec{Linden Hill}
+%\fontspec{Ostrich Sans}
+%\setmainfont[Ligatures=TeX]{Ostrich Sans}
 %______________________________________________________________________________________________________________________
 \begin{document}
-\name{\Large Andy Freeland}
+\name{\Large Andrew Bacon}
 \hyphenpenalty=1000 %sets the penalty for hyphenation so high that it will never happen.
 \begin{resume}
-
+%\setmainfont[Ligatures={Common, Historical, Rare, Discretionary, TeX, Contextual}]{Linden Hill}
     %__________________________________________________________________________________________________________________
     % Contact Information
     \section{\mysidestyle Contact\\Information}
 
     300 North College Street
-    \hfill mobile: (815) 501 7832
+    \hfill mobile: (209) 338 7949
     \vspace{0mm}\\\vspace{0mm}%
-    Northfield MN, 55057                          
-    \hfill e-mail: andy@andyfreeland.net
+    Northfield MN, 55057
+    \hfill e-mail: abacon@gmail.com
     \vspace{0mm}\\\vspace{0mm}%
-    \hfill web: http://andyfreeland.net         
+    \hfill web: http://andrewbacon.org
     \vspace{0mm}\\\vspace{-4.5mm}%
+\vspace{3mm}
 
     %__________________________________________________________________________________________________________________
     % Education
     \section{\mysidestyle Education}
 
     \textbf{Carleton College}, Northfield, Minnesota
-    \hfill September 2008 -- June 2012
+    \hfill September 2009 -- June 2013
     \vspace{2mm}\\\vspace{1mm}%
-    \textsl{Candidate for Bachelor of Arts in Computer Science}; GPA: 3.71
+    \textsl{Candidate for Bachelor of Arts, Biology}
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Relevant Coursework: Algorithms, Artificial Intelligence, Computer Organization \& Architecture, Cryptography, Data Mining, Data Structures, Math of Computer Science, Programming Languages, Statistics.
-    \end{list2}\vspace{-1.5mm}%
-    
-    \textbf{Lebanese American University}, Beirut, Lebanon
-    \hfill September 2010 -- December 2010
-    \vspace{2mm}\\\vspace{1mm}%
-    \textsl{Institute for Intensive Arabic Language and Culture}
-    \vspace{-3mm}\\\vspace{-1mm}%
-    \begin{list2}
-        \item Semester program in Arabic language and culture, focusing on Modern Standard Arabic, Lebanese Arabic, and the politics of the Middle East.
-        %\item Coursework: Advanced Standard Arabic, Advanced Arabic Writing Skills, Lebanese Arabic, Middle East Challenges of the 21st Century
-    \end{list2}\vspace{-1.5mm}%
+        \item Relevant Coursework: Computer Organization \& Architecture, Data Structures, Statistics, Genetics, Animal Development, Animal Physiology, Molecular Basis of Human Diseases.
+    \end{list2}%
 
+%    \textbf{University of California, Santa Barbara}, California
+%    \hfill September 2008 -- June 2009
+%    \vspace{2mm}\\\vspace{1mm}%
+
+        %\textbf{Modesto High School}, Modesto, California
+    %\hfill September 2004 -- June 2008
+    %\vspace{2mm}\\\vspace{1mm}%
+    %\textsl{Internation Baccalaureate}
+    %\vspace{-3mm}\\\vspace{-1mm}%
+   % \begin{list2}
+   %     \item Semester program in Arabic language and culture, focusing on Modern Standard Arabic, Lebanese Arabic, and the politics of the Middle East.
+   %     %\item Coursework: Advanced Standard Arabic, Advanced Arabic Writing Skills, Lebanese Arabic, Middle East Challenges of the 21st Century
+   % \end{list2}\vspace{-1.5mm%}%
+%
+\vspace{3mm}
     %__________________________________________________________________________________________________________________
     % Projects
-    \section{\mysidestyle Projects} 
+    \section{\mysidestyle Projects}
 
-    \textbf{Futures Market} \hfill June -- July 2011
+    \textbf{dateknight} \hfill February 2012
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Developed a futures market web application, similar to the Iowa Electronic Markets, using the Django framework and a jQuery frontend.%, and Tornado server.
-        \item Designed to handle a class of 50 students while performing live updates of stock prices and orders.
-        \item Markets are initialized with and export to YAML for data analysis.
-    \end{list2}\vspace{-1.5mm}%
+        \item Worked in a four-person team to develop a crush-based matchmaking service using the Django framework.
+        \item Programmed accessible, \textsc{ajax}-enabled, gracefully-degrading web interface.
+        \item Supported activity-based ``like" suggestions.
+    \end{list2}%
 
-    \textbf{HITSearch} \hfill June 2011
+    \textbf{pebbleCase} \hfill June -- July 2011
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Worked in a three-person team to develop a search engine using the Django framework.
-        \item Implemented a web crawler that safely crawled and indexed over 8000 pages.
-        \item Supported user customization of search results by adjusting the weight of term frequency versus
-            the HITS algorithm in the ranking.
-    \end{list2}\vspace{-1.5mm}%
-
-    \textbf{20 Questions} \hfill June 2010
-    \vspace{-3mm}\\\vspace{-1mm}%
-    \begin{list2}
-        \item Worked in a two-person team to build an artificially intelligent twenty questions bot and web application using web.py.
-        \item Conducted user testing to build a dataset and evaluate algorithms for choosing questions.
-        \item Bot could learn new characters and new questions from user input.
-    \end{list2}\vspace{-1.5mm}%
-
+        \item Designed and implemented an object-oriented, easily extensible, \textsc{gpl}'d social media aggregator.
+        \item Interfaces with twitter, facebook, tumblr, flickr, github, and bitbucket \textsc{api}s.
+	\item Implements simple templating system.
+    \end{list2}%
+\vspace{3mm}
     %__________________________________________________________________________________________________________________
     % Professional Experience
     \section{\mysidestyle Related\\Experience}
 
     \textbf{Carleton College}, Northfield, Minnesota \vspace{2mm}\\\vspace{1mm}%
-    \textbf{Assistant Systems Administrator} \hfill June 2010 -- present
+    \textbf{Web Services Group -- Associate} \hfill September 2009 -- present
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Deployed Git server and led transition from SVN to Git.
-        \item Configured and maintained Mac and Windows computer labs, faculty machines, and Linux servers.
-        \item Documented server and lab configurations and wrote technical instructions for students.
-        \item Assisted students with debugging and version control.
-    \end{list2}\vspace{-1.5mm}%
+    	\item Presented hour-long conference session.
+        \item Designed and implemented a newsletter auto-generation workflow.
+        \item Extended a jQuery table row drag-and-drop plugin to be accessible and mobile-friendly.
+        \item Developed a jQuery plugin for layman editing of \textsc{json} datasets.
+    \end{list2}%
 
-    
-    \textbf{Grader} \hfill January 2010 -- March 2010
+    \textbf{Freelance web design}, Northfield, Minnesota \hfill August 2008 -- 2011
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Graded programming assignments for an Introduction to Computer Science class.
-        \item Evaluated for correctness and provided extensive feedback on style and programming practices.
-    \end{list2}\vspace{-1.5mm}%
-    
-    \textbf{Rapid Response Assistant} \hfill September 2009 -- June 2010
-    \vspace{-3mm}\\\vspace{-1mm}%
-    \begin{list2}
-        \item Worked with a team of full-time staff and student workers to provide phone and on-site technical support to faculty and staff with software, hardware, and networking issues.
-    \end{list2}\vspace{-1.5mm}%
+        \item Met with clients, organized contracts for jobs, and drafted design briefs.
+        \item Built \textsc{cms}-driven website templates using Wordpress.
+        \item Programmed custom website solutions.
+    \end{list2}%
+\vspace{3mm}
 
     %__________________________________________________________________________________________________________________
     % Additional Experience
-    \section{\mysidestyle Additional Experience} 
+    \section{\mysidestyle Volunteer Work, Additional Experience}
 
-    \textbf{Arabic Teaching Assistant} \hfill January 2011 -- present
+    \textbf{Boy Scouts of America}, Varsity Team 12, Modesto, CA \hfill August 2004 -- 2010
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Held office hours and one-on-one sessions to help students with homework and practice oral skills.
-        \item Assisted professor during in-class group work with 20 introductory Arabic students by answering questions and facilitating discussion.
-        \item Developed audiolingual learning materials for the second-year students which allow students to hear a recording, practice pronunciation, and receive professor feedback.
-    \end{list2}\vspace{-1.5mm}%
-    
-    \textbf{Volunteer Math Tutor} \hfill August 2006 -- Present
+        \item Eagle Scout (2008).
+        \item Designed, solicited donations, and organized volunteers for the landscaping of a Habitat for Humanity home.
+    \end{list2}%    
+
+    \textbf{UCSB Campus Democrats}, Santa Barbara, CA \hfill January 2008 -- 2009
     \vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Assisted teacher in tutoring 10-20 students from algebra through calculus in after-school sessions.
-        \item Provided one-on-one tutoring for students outside of school.
-    \end{list2}\vspace{-1.5mm}%
+        \item Phone-banked, traveled with Santa Barbara Democrats to Nevada to canvas for Obama/Biden '08.
+        \item Campaigned for local candidates and issues.
+        \item Donated 30+ hours to ``Get Out the Vote" efforts.
+    \end{list2}%
+
+    \textbf{Habitat for Humanity, Stanislaus County} \hfill August 2007 -- 2008
+    \vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+        \item Co-founded, organized \emph{HabitatNOW}, a continuing program for young volunteers.
+        \item Coordinated advertising, event logistics for first build. 
+    \end{list2}%
     
+    \textbf{Lino Bella -- Sales Assosciate}, Modesto, CA \hfill August 2007 -- 2008
+    \vspace{-3mm}\\\vspace{-1mm}%
+\vspace{3mm}
     %__________________________________________________________________________________________________________________
     % Technical Skills
-    \section{\mysidestyle Skills} 
+    \section{\mysidestyle Skills}
 
-    Python, Django, HTML/CSS, Scheme, C, SQL, Git, Bash, Linux/Unix Administration.
+    \textsc{php}, Java, JavaScript, jQuery, \textsc{(x)html/css, sql}, \textsc{r}, Git, Bash, Linux/Unix Administration. \\
+    Facebook, twitter \textsc{api}s; Adobe Photoshop, InDesign, Illustrator.
 
 %______________________________________________________________________________________________________________________
+
 \end{resume}
+
 \end{document}
 
 
